@@ -1,15 +1,26 @@
-👋 Hi there! I'm Martin-Louis Bright and I am software engineer living in Toronto Canada.  👨‍💻
+👋 Hi there! I'm Martin-Louis Bright and I am a software engineer living in Toronto Canada. 👨‍💻
 
 For the last little while, I have been a GitHub Enterprise site administrator at Autodesk Inc.
 
-I love automating things and developing software that helps people and organizations.
+I love [automating things][xkcd-automation] and developing software that helps people and organizations.
 
-I am proficient in Python, Bash, Perl and Go programming.
+My favorite programming language is [Go][golang] but recently, I have started to [learn Rust][rust] and it may take the #1 spot.
 
-My favorite programming language is Go but Recently, I have started to learn Rust and it may take the #1 spot.
+I am also proficient in [Python][python], Bash, and [Perl][perl].
 
-I am at home with Linux and Mac OS systems, my public cloud of choice is AWS, and I can write SQL.
+I am at home with Linux and Mac OS systems, my public cloud of choice is [AWS][https://aws.amazon.com/], and I happily write SQL.
 
-I think infrastructure as code is the way to go and I embraced devops culture even before it had a name.
+I think infrastructure as code and [gitops][gitops] are great and I embraced [devops culture][devops] even before it had a name.
 
 I have over 20 years of experience in information technology.
+
+[autodesk]: https://www.autodesk.com/
+[ghes]: https://github.com/enterprise
+[xkcd-automation]: https://xkcd.com/1319/
+[aws]: https://aws.amazon.com/
+[golang]: https://golang.org
+[python]: https://www.python.org/
+[perl]: https://perl.com
+[devops]: https://en.wikipedia.org/wiki/DevOps
+[ioc]: https://en.wikipedia.org/wiki/Infrastructure_as_code
+[gitops]: https://www.gitops.tech/
