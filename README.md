@@ -1,6 +1,6 @@
 👋 Hi there! I'm Martin-Louis Bright and I am a software engineer living in Toronto Canada. 👨‍💻
 
-For the last little while, I have been a GitHub Enterprise site administrator at Autodesk Inc.
+For the last little while, I have been a [GitHub Enterprise][ghes] site administrator at Autodesk Inc.
 
 I love [automating things][xkcd-automation] and developing software that helps people and organizations.
 
@@ -24,3 +24,4 @@ I have over 20 years of experience in information technology.
 [devops]: https://en.wikipedia.org/wiki/DevOps
 [ioc]: https://en.wikipedia.org/wiki/Infrastructure_as_code
 [gitops]: https://www.gitops.tech/
+[rust]: https://www.rust-lang.org/
