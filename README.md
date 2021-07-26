@@ -8,7 +8,7 @@ My favorite programming language is [Go][golang] but recently, I have started to
 
 I am also proficient in [Python][python], Bash, and [Perl][perl].
 
-I am at home with Linux and Mac OS systems, my public cloud of choice is [AWS][https://aws.amazon.com/], and I happily write SQL.
+I am at home with Linux and Mac OS systems, my public cloud of choice is [AWS][aws], and I happily write SQL.
 
 I think infrastructure as code and [gitops][gitops] are great and I embraced [devops culture][devops] even before it had a name.
 
