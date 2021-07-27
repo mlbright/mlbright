@@ -1,4 +1,4 @@
-👋 Hi there! I'm Martin-Louis Bright and I am a software engineer living in Toronto Canada. 👨‍💻
+👋 Hi there! I'm Martin-Louis Bright and I am a software engineer living in Toronto, Canada. 👨‍💻
 
 For the last little while, I have been a [GitHub Enterprise][ghes] site administrator at [Autodesk Inc.][autodesk].
 
