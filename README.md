@@ -2,7 +2,7 @@
 
 For the last little while, I have been a [GitHub Enterprise][ghes] site administrator at [Autodesk Inc.][autodesk].
 
-I love [automating things][xkcd-automation] and developing software that helps people and organizations.
+I love [automating things][xkcd-automation], configuring services, and developing software that helps people and organizations.
 
 My favorite programming language is [Go][golang] but recently, I have started to [learn Rust][rust] and it may take the #1 spot.
 
