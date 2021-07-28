@@ -14,8 +14,6 @@ I think infrastructure as code and [gitops][gitops] are great and I embraced [de
 
 I have over 20 years of experience in information technology.
 
-[![mlbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlbright)](https://github.com/anuraghazra/github-readme-stats)
-
 ![mlbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlbright&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlbright&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
