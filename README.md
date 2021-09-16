@@ -12,7 +12,7 @@ I am at home with Linux and MacOS systems, my public cloud of choice is [AWS][aw
 
 I think infrastructure as code and [gitops][gitops] are great and I embraced [devops culture][devops] even before it had a name.
 
-I have over 20 years of experience in information technology.
+I have over [20 years of experience][cv] in information technology.
 
 ![mlbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlbright&show_icons=true&theme=radical)
 
@@ -30,3 +30,4 @@ I have over 20 years of experience in information technology.
 [ioc]: https://en.wikipedia.org/wiki/Infrastructure_as_code
 [gitops]: https://www.gitops.tech/
 [rust]: https://www.rust-lang.org/
+[cv]: https://mlbright.github.io/cv
