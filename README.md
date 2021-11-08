@@ -1,6 +1,8 @@
 👋 Hi there! I'm Martin-Louis Bright and I am a software engineer living in Toronto, Canada. 👨‍💻
 
-For the last little while, I have been a [GitHub Enterprise][ghes] site administrator at [Autodesk Inc.][autodesk].
+I work at [cPacket Networks][cpacket]. 
+
+Prior to that, I was a [GitHub Enterprise][ghes] site administrator at [Autodesk Inc.][autodesk].
 
 I love [automating things][xkcd-automation], configuring services, and developing software that helps people and organizations.
 
@@ -19,6 +21,7 @@ I have over [20 years of experience][cv] in information technology.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlbright&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[cpacket]: https://www.cpacket.com/
 [autodesk]: https://www.autodesk.com/
 [ghes]: https://github.com/enterprise
 [xkcd-automation]: https://xkcd.com/1319/
