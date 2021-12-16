@@ -35,3 +35,4 @@ I have over [20 years of experience][cv] in information technology.
 [typescript]: https://typescriptlang.org
 [cpacket]: https://www.cpacket.com/
 [azure]: https://portal.azure.com
+[cv]: https://mlbright.github.io/cv/
