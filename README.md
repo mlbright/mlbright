@@ -7,7 +7,7 @@ Prior to that, I was a [GitHub Enterprise][ghes] site administrator at [Autodesk
 I love [automating things][xkcd-automation], configuring services, and developing software that helps people and organizations.
 
 I am proficient in [Python][python], Bash, [Perl][perl], and [Go][golang] programming, but I prefer [Rust][rust] to all of those, even though I'm not as comfortable in it yet.
-(Using [Typescript][typescript] means I can maintain my career long pledge to avoid languages prefixed with 'Java'.)
+(Using [Typescript][typescript] is a sneaky way to maintain my career long pledge to avoid languages prefixed with 'Java'.)
 
 I am at home with Linux (my favorite distro is _still_ Ubuntu) and MacOS systems, my public cloud of choice is [AWS][aws] (but I'm now also a fan of [Azure][azure]), and I happily write SQL.
 
