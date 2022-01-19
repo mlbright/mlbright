@@ -2,7 +2,7 @@
 
 I'm currently working at [cPacket Networks][cpacket], where I operate mainly in Azure and AWS, and where I write a lot of Bash, Python, and (increasingly) Typescript.
 
-Prior to that, I was a [GitHub Enterprise][ghes] site administrator at [Autodesk][autodesk].
+Prior to that, I was a [GitHub Enterprise][ghes] [site administrator][github-site-admin] at [Autodesk][autodesk].
 
 I love [automating things][xkcd-automation], configuring services, and developing software that helps people and organizations.
 
@@ -21,6 +21,7 @@ I have over [20 years of experience][cv] in information technology.
 
 
 [cpacket]: https://www.cpacket.com/
+[github-site-admin]: https://github.com/mlbright/github-enterprise-site-admin
 [autodesk]: https://www.autodesk.com/
 [ghes]: https://github.com/enterprise
 [xkcd-automation]: https://xkcd.com/1319/
