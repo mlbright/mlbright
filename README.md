@@ -16,7 +16,7 @@ I think infrastructure as code and [Gitops][gitops] are great and I embraced [de
 I have over [20 years of experience][cv] in information technology.
 
 An archived repository in this space means that it has few or no end users, or that it is deprecated.
-However, if you have questions about any of them, please ask them via old fashioned email.
+However, if you have questions about any of them, please ask via old fashioned email.
 
 ![mlbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlbright&show_icons=true&theme=radical)
 
