@@ -6,7 +6,7 @@ Prior to that, I was a [GitHub Enterprise][ghes] [site administrator][github-sit
 
 I love [automating things][xkcd-automation], configuring services, and developing software that helps people and organizations.
 
-I can code in [Python][python], Bash, [Perl][perl], [Go][golang] and [Rust][rust].
+I can code in [Python][python], [Bash][bash], [Perl][perl], [Go][golang] and [Rust][rust].
 Using [Typescript][typescript] is a sneaky way to maintain my career long pledge to avoid programming languages prefixed with 'Java', but I am a pragmatist so this will likely change.
 
 I am at home with Linux (my favorite distro is _still_ Ubuntu) and MacOS systems, my public cloud of choice is [AWS][aws] (but I'm now also a fan of [Azure][azure]), and I happily write SQL.
@@ -40,3 +40,5 @@ However, if you have questions about any of them, please ask via old fashioned e
 [cpacket]: https://www.cpacket.com/
 [azure]: https://portal.azure.com
 [cv]: https://mlbright.github.io/cv/
+[bash]: https://www.gnu.org/software/bash/manual/bash.html
+[Ubuntu]: https://ubuntu.com/
