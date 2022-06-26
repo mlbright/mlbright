@@ -1,6 +1,6 @@
 👋 Hi there! I'm Martin-Louis Bright and I am a software engineer living in Toronto, Canada. 👨‍💻
 
-I'm currently working at [cPacket Networks][cpacket], where I operate mainly in Azure and AWS, and where I write a lot of Bash, Python, and (increasingly) Typescript.
+I'm currently working at [cPacket Networks][cpacket], where I operate mainly in Azure and AWS.
 
 Prior to that, I was a [GitHub Enterprise][ghes] [site administrator][github-site-admin] at [Autodesk][autodesk].
 
