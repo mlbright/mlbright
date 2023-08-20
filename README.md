@@ -6,22 +6,24 @@ Prior to that, I was a [GitHub Enterprise][ghes] [site administrator][github-sit
 
 I love [automating things][xkcd-automation], configuring services, and developing software that helps people and organizations.
 
-I can code in [Python][python], [Bash][bash], [Perl][perl], [Go][golang] and [Rust][rust].
-Using [Typescript][typescript] is a sneaky way to maintain my career long pledge to avoid programming languages prefixed with 'Java', but I am a pragmatist so this will likely change.
+I have shipped [Python][python], [Bash][bash], [Go][golang], and [Perl][perl] code to production.
 
-I am at home with Linux (my favorite distro is _still_ Ubuntu) and MacOS systems, my public cloud of choice is [AWS][aws] (but I'm now also a fan of [Azure][azure]), and I happily write SQL.
+I have also tinkered with [Rust][rust], [Ruby][ruby], and [Typescript][typescript].
+
+My career long pledge to avoid programming languages prefixed with 'Java' has probably limited my opportunities.
+
+I am at home and happy with Linux systems (my favorite distro is [Ubuntu][ubuntu]) and MacOS, my public cloud of choice is [AWS][aws] (but I also like [Azure][azure]).
+
+I happily write SQL.
 
 I think infrastructure as code and [Gitops][gitops] are great and I embraced [devops culture][devops] even before it had a name.
 
+I'm loving [Tailscale][tailscale] right now (August 2023).
+
 I have over [20 years of experience][cv] in information technology.
 
-An archived repository in this space means that it has few or no end users, or that it is deprecated.
+An archived repository in this space means that it has few or no end users, that it was only an experiment, or that it is deprecated.
 However, if you have questions about any of them, please ask via old fashioned email.
-
-![mlbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlbright&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlbright&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [cpacket]: https://www.cpacket.com/
 [github-site-admin]: https://github.com/mlbright/github-enterprise-site-admin
@@ -42,3 +44,5 @@ However, if you have questions about any of them, please ask via old fashioned e
 [cv]: https://mlbright.github.io/cv/
 [bash]: https://www.gnu.org/software/bash/manual/bash.html
 [Ubuntu]: https://ubuntu.com/
+[ruby]: https://ruby-lang.org
+[tailscale]: https://tailscale.com
