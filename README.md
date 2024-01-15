@@ -8,7 +8,7 @@ I love [automating things][xkcd-automation], configuring services, and developin
 
 I have shipped [Python][python], [Bash][bash], [Go][golang], and [Perl][perl] code to production.
 
-I have also tinkered with [Rust][rust], [Ruby][ruby], and [Typescript][typescript].
+I have also tinkered with [Rust][rust], [Ruby][ruby], [Typescript][typescript], and [Zig][zig].
 
 My career long pledge to avoid programming languages prefixed with 'Java' has probably limited my opportunities.
 
@@ -18,12 +18,12 @@ I happily write SQL.
 
 I think infrastructure as code and [Gitops][gitops] are great and I embraced [devops culture][devops] even before it had a name.
 
-I'm loving [Tailscale][tailscale] right now (August 2023).
+I enthusiastically use tmux, SSH, Tailscale, and Wireshark.
 
 I have over [20 years of experience][cv] in information technology.
 
-An archived repository in this space means that it has few or no end users, that it was only an experiment, or that it is deprecated.
-However, if you have questions about any of them, please ask via old fashioned email.
+An archived repository in this space means that it has few or no end users, or that it is an experiment that has run its course.
+The archived repos here are unmaintained, however if you have questions about them, feel free to reach out via old-fashioned email.
 
 [cpacket]: https://www.cpacket.com/
 [github-site-admin]: https://github.com/mlbright/github-enterprise-site-admin
@@ -46,3 +46,4 @@ However, if you have questions about any of them, please ask via old fashioned e
 [Ubuntu]: https://ubuntu.com/
 [ruby]: https://ruby-lang.org
 [tailscale]: https://tailscale.com
+[zig]: https://ziglang.org/
