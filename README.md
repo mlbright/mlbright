@@ -9,8 +9,6 @@ I'm currently working at [cPacket Networks][cpacket], where I operate mainly in 
 
 Prior to that, I was a [GitHub Enterprise][ghes] [site administrator][github-site-admin] at [Autodesk][autodesk].
 
-I love [automating things][xkcd-automation], configuring services, and developing software that helps people and organizations.
-
 Since March 2025, LLMs and AI agents help me write:
 
 - [Python][python]
