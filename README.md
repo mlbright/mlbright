@@ -21,8 +21,6 @@ An archived repository in this space means that it has few or no end users, or t
 The archived repos here are unmaintained, however if you have questions about them, feel free to reach out via old-fashioned email.
 
 [cv]: https://mlbright.github.io/cv/
-[xdpgate]: https://github.com/mlbright/xdpgate
-[ipv6rd]: https://github.com/mlbright/ipv6rd
 [cpacket]: https://www.cpacket.com/
 [aws]: https://aws.amazon.com/
 [azure]: https://portal.azure.com
